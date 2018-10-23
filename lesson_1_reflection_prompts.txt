@@ -1,0 +1,34 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It helped in finding the errors/typos in either of them or both of them. It helped me compare the files by giving differences alongwith the line numbers.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If this is the case, I will be able to find all the changes made by me, more efficiently and this will help in debugging the errors.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pros of manual commits-
+    	Each change is saved by us according to our own requirement.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because, in Git, the files involved maybe a lot inter-related. So, making commits to multiple files will be more reasonable, while in Google Docs, the files would require separate attention due to no or negligible inter-relation.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log is used to see all the commits made to the file starting from the most recent commit to the oldest ones, thus providing full history of the changes made to the file. git diff is used to compare two commits and displays the lines added and lines deleted after the first commit, in the second commit. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    Here, I can easily checkout to the previous commits anytime I might need to, like in situations where the changes made by me causes a bug. So, it makes me more confident of taking the risk and making changes that could break something.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I'll use it to modify my own files, programs etc. aand make changes to it keeping a track of all the commits made.

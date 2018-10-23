@@ -14,6 +14,8 @@ docs does?
 
     Pros of manual commits-
     	Each change is saved by us according to our own requirement.
+    Cons of manual commits-
+    	Making changes can be tedious when working on a project with lengthy codes.
 
 Why do you think some version control systems, like Git, allow saving multiple
 files in one commit, while others, like Google Docs, treat each file separately?

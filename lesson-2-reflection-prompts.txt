@@ -6,18 +6,31 @@ What happens when you initialize a repository? Why do you need to do it?
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-	The staging area is an intermediate state of the repository where the changes to be committed in the original repository are added first and then, from staaging area, the commit is made to the repository.
+	The staging area is an intermediate state of the repository where the changes to be committed in the original repository are added first and then, from staging area, the commit is made to the repository.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+	Here, we can add those files to the staging area in which changes are to be worked upon and then we can safely make the change and make a commit, thus storing it to the Git repository. In this way, only logical changes meant for certain files get an intermediate workign space, called the staging area.
+	
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	If we need to show separate versions of our files in different languages for linguistically different persons, then branches would be helpful. Branches help to maintain different usable forms of a file within a certain form of a file. 
+
 How do the diagrams help you visualize the branch structure?
+
+	Diagrams give a clear idea of the paths of the branches alongwith the commits made. It gives a complete map of the version history of the file and thus, helps in visualising the structure of the changes made to the file.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	When we merge two branches together, we merge the history of commits of both the branches essentially and thus, get access to all those commits using a single branch label. In the diagram, we represent it that way because it shows the convergence of 2 separate branches into 1 branch, thus forming a compact unit of 2 separate history of commits.
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+	Pros. of Git's Automatic Merging -
+		Saves time
+	Cons of Git's Automatic Merging -
+		Creates unnecessary merges
+		Not able to resolve conflicts on it's own

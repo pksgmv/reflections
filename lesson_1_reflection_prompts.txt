@@ -33,4 +33,4 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-    I'll use it to modify my own files, programs etc. aand make changes to it keeping a track of all the commits made.
+    I'll use it to modify my own files, programs etc. and make changes to it keeping a track of all the commits made, using the version control system offered by Git.

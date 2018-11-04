@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+    I would use a remote repo instead of local when I can directly edit my new commits and I don't require to work upon the files for
+    making commits. Also, if we don't need some changes for us, but want to make them available for others, then we can directly use a
+    public remote repo.

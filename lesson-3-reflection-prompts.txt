@@ -2,3 +2,5 @@ When would you want to use a remote repository rather than keeping all your work
     I would use a remote repo instead of local when I can directly edit my new commits and I don't require to work upon the files for
     making commits. Also, if we don't need some changes for us, but want to make them available for others, then we can directly use a
     public remote repo.
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+	Many of the changes we don't require in our local repository so such changes can be left only on GitHub without pulling them. Thus, to manually pull changes is more efficient.

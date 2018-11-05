@@ -13,4 +13,9 @@ Why might you want to always pull changes manually rather than having Git automa
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 	When we are not allowed to make changes to a GitHub repository, then we can fork it to have a copy of that repo in our own GitHub Page
-	from where we can make commits to it conveniently. In such case, we can also clone the repo to our own local machine if we have to make bigger changes to the repo. When we work on different versions of the type of an already created commit, then we can create a branch to that commit. For Example, if a file requires to be in 10 languages for 10 linguistically different people to understand the file.  
+	from where we can make commits to it conveniently. In such case, we can also clone the repo to our own local machine if we have to make bigger changes to the repo. When we work on different versions of the type of an already created commit, then we can create a branch to that commit. For Example, if a file requires to be in 10 languages for 10 linguistically different people to understand the file.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	
+	We can make changes to the latest state of the remote without any changes to the original remote. Also, we can anytime push modified local version back to GitHub.  

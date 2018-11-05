@@ -18,4 +18,9 @@ Describe the differences between forks, clones, and branches. When would you use
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 	
-	We can make changes to the latest state of the remote without any changes to the original remote. Also, we can anytime push modified local version back to GitHub.  
+	We can make changes to the latest state of the remote without any changes to the original remote. Also, we can anytime push modified local version back to GitHub.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	
+	Without Git or GitHub, we collaborate by exchanging data using online sharing resources and/or with the help of secondary storage devices. Using Git would be much convenient and the other alternatives mentioned above are harder.  

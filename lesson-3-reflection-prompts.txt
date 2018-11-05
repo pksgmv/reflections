@@ -1,6 +1,16 @@
 When would you want to use a remote repository rather than keeping all your work local?
+    
     I would use a remote repo instead of local when I can directly edit my new commits and I don't require to work upon the files for
     making commits. Also, if we don't need some changes for us, but want to make them available for others, then we can directly use a
     public remote repo.
+
+
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
 	Many of the changes we don't require in our local repository so such changes can be left only on GitHub without pulling them. Thus, to manually pull changes is more efficient.
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	When we are not allowed to make changes to a GitHub repository, then we can fork it to have a copy of that repo in our own GitHub Page
+	from where we can make commits to it conveniently. In such case, we can also clone the repo to our own local machine if we have to make bigger changes to the repo. When we work on different versions of the type of an already created commit, then we can create a branch to that commit. For Example, if a file requires to be in 10 languages for 10 linguistically different people to understand the file.  
